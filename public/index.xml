@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denver Noell</title>
+    <link>https://denvernoell.com/</link>
+    <description>Recent content on Denver Noell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://denvernoell.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://denvernoell.com/blog/jim-martin/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/blog/jim-martin/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://denvernoell.com/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://denvernoell.com/blog/rich-content-copy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/blog/rich-content-copy/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://denvernoell.com/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://denvernoell.com/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VBA Made Easy</title>
+      <link>https://denvernoell.com/blog/vba-made-easy/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/blog/vba-made-easy/</guid>
+      <description>&lt;p&gt;I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.&lt;/p&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://denvernoell.com/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Steel Helper</title>
+      <link>https://denvernoell.com/blog/steel-helper/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/blog/steel-helper/</guid>
+      <description>&lt;p&gt;Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.&lt;/p&gt;
+&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://denvernoell.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/about/</guid>
+      <description>I am currently a Civil Engineering student emphasizing in water resources. Below is some history of my past work
+Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://denvernoell.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://denvernoell.com/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
