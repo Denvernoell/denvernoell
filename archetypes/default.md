@@ -1,12 +1,12 @@
 +++
 title = ""
 description = ""
-author = ""
+author = "Denver Noell"
 date = ""
 tags = [""]
 categories = [""]
 comments = true
-removeBlur = false
+removeBlur = true
 [[images]]
   src = ""
   alt = ""
