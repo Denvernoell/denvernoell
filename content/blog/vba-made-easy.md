@@ -1,6 +1,6 @@
 +++
-author = "Hugo Authors"
-date = 2019-03-09T00:00:00Z
+author = "Denver Noel"
+date = 2021-01-14T08:00:00Z
 description = "How to get started with VBA"
 tags = ["VBA", "Programming"]
 title = "VBA Made Easy"
