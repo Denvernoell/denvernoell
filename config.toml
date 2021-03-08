@@ -1,6 +1,7 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://denvernoell.com/"
+#baseurl                 = "https://denvernoell.com/"
+baseurl                 = "//denvernoell.netlify.app"
 DefaultContentLanguage  = "en"
 title                   = "Denver Noell"
 theme                   = "hugo-future-imperfect-slim"
@@ -28,6 +29,7 @@ disableLanguages        = []
   imageStretch          = ""
   removeBlur            = false
   socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  #socialShare           = ["linkedin", "email"]
   hideEmptyStats        = false
 
   [params.meta]
@@ -40,14 +42,14 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "DenverNoell.com"
+    navbarTitle         = "Home"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
+    header                = "DenverNoell.com"
     paragraph             = "A site showing what Denver is doing</a>."
     rssIntro              = true
     socialIntro           = true
@@ -55,7 +57,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/personal/boat_visor.JPG"
       shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
@@ -72,9 +74,9 @@ disableLanguages        = []
 
   [params.staticman]
     enabled             = true
-    api                 = ""  # No Trailing Slash
-    gitProvider         = ""
-    username            = ""
+    api                 = "https://staticman-denver.herokuapp.com/v2/entry/denvernoell/denvernoell/master/comments"  # No Trailing Slash
+    gitProvider         = "github"
+    username            = "githubbotdenver"
     repo                = ""
     branch              = ""
 
@@ -319,7 +321,7 @@ disableLanguages        = []
 
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "denvernoell/"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -327,22 +329,22 @@ disableLanguages        = []
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = ""
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = ""
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -350,19 +352,19 @@ disableLanguages        = []
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = ""
   tumblr                = ""
-  twitter               = "example"
+  twitter               = ""
   strava                = ""
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = ""
+  keybase               = ""
+  mastodon              = ""
   # Email
-  email                 = "example"
+  email                 = "denvernoell@gmail.com"

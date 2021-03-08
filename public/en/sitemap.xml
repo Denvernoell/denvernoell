@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://denvernoell.com/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,6 +15,76 @@
                 hreflang="en"
                 href="https://denvernoell.com/blog/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://denvernoell.com/tags/programming/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://denvernoell.com/tags/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://denvernoell.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://denvernoell.com/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://denvernoell.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://denvernoell.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://denvernoell.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://denvernoell.com/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://denvernoell.com/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://denvernoell.com/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://denvernoell.com/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://denvernoell.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://denvernoell.com/tags/vba/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://denvernoell.com/blog/vba-made-easy/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -125,16 +195,6 @@
   <url>
     <loc>https://denvernoell.com/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://denvernoell.com/fr/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://denvernoell.com/blog/markdown-syntax/"
-                />
   </url>
   
   <url>
@@ -149,61 +209,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://denvernoell.com/categories/syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://denvernoell.com/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://denvernoell.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://denvernoell.com/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://denvernoell.com/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://denvernoell.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://denvernoell.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://denvernoell.com/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://denvernoell.com/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://denvernoell.com/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://denvernoell.com/nl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://denvernoell.com/tags/"
                 />
   </url>
   
@@ -260,16 +265,6 @@
   <url>
     <loc>https://denvernoell.com/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://denvernoell.com/fr/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://denvernoell.com/blog/rich-content/"
-                />
   </url>
   
   <url>
@@ -293,22 +288,7 @@
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/programming/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://denvernoell.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://denvernoell.com/tags/vba/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://denvernoell.com/blog/vba-made-easy/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -335,16 +315,6 @@
   <url>
     <loc>https://denvernoell.com/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://denvernoell.com/fr/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://denvernoell.com/blog/emoji-support/"
-                />
   </url>
   
   <url>

@@ -8,7 +8,7 @@ categories = [""]
 comments = true
 removeBlur = true
 [[images]]
-  src = ""
-  alt = ""
-  stretch = ""
+  src = "img/"
+  alt = "Photo"
+  stretch = "Vertical"
 +++

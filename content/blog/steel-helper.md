@@ -5,7 +5,7 @@ author = "Denver Noell"
 date = "2019-03-05"
 tags = ["Steel", "Civil Engineering"]
 [[images]]
-  src = "img/2019/03/pic02.jpg"
+  src = "static/img/2019/03/pic02.jpg"
   alt = "Desert Scene"
   stretch = "stretchH"
 +++

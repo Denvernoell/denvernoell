@@ -2,10 +2,10 @@
 title = "VBA Made Easy"
 description = "How to get started with VBA"
 author = "Hugo Authors"
-date = "2019-03-09"
+date = "2021-02-01"
 tags = ["VBA", "Programming"]
 [[images]]
-  src = "img/2019/03/pic03.jpg"
+  src = "stock/morning1.jpg"
   alt = "Valley"
   stretch = "horizontal"
 +++

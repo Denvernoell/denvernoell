@@ -13,10 +13,10 @@
     
     <item>
       <title>Contenu riche</title>
-      <link>https://denvernoell.com/fr/blog/rich-content/</link>
+      <link>https://denvernoell.com/fr/blog/fr/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/fr/blog/rich-content/</guid>
+      <guid>https://denvernoell.com/fr/blog/fr/rich-content/</guid>
       <description>&lt;p&gt;Hugo est livré avec plusieurs [Shortcodes intégrés] (&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&lt;/a&gt;) pour un contenu riche, ainsi qu&amp;rsquo;une [Privacy Config] ( &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;https://gohugo.io/about/hugo-and-gdpr/&lt;/a&gt;) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.&lt;/p&gt;</description>
     </item>
     
