@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Denver Noell</title>
-    <link>https://denvernoell.com/es/</link>
+    <link>//denvernoell.netlify.app/es/</link>
     <description>Recent content on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="https://denvernoell.com/es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//denvernoell.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contacto</title>
-      <link>https://denvernoell.com/es/contact/</link>
+      <link>//denvernoell.netlify.app/es/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/es/contact/</guid>
+      <guid>//denvernoell.netlify.app/es/contact/</guid>
       <description></description>
     </item>
     

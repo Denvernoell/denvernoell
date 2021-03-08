@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VBA on Denver Noell</title>
-    <link>https://denvernoell.com/tags/vba/</link>
+    <link>//denvernoell.netlify.app/tags/vba/</link>
     <description>Recent content in VBA on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://denvernoell.com/tags/vba/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//denvernoell.netlify.app/tags/vba/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VBA Made Easy</title>
-      <link>https://denvernoell.com/blog/vba-made-easy/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <link>//denvernoell.netlify.app/blog/vba-made-easy/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
       
-      <guid>https://denvernoell.com/blog/vba-made-easy/</guid>
-      <description>&lt;p&gt;I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.&lt;/p&gt;
-&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
+      <guid>//denvernoell.netlify.app/blog/vba-made-easy/</guid>
+      <description>I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.
+wow was I wrong!</description>
     </item>
     
   </channel>

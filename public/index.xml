@@ -2,97 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Denver Noell</title>
-    <link>https://denvernoell.com/</link>
+    <link>//denvernoell.netlify.app/</link>
     <description>Recent content on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://denvernoell.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//denvernoell.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>VBA Made Easy</title>
-      <link>https://denvernoell.com/blog/vba-made-easy/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <title>LaTex in Word</title>
+      <link>//denvernoell.netlify.app/blog/latex_in_word/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/vba-made-easy/</guid>
-      <description>&lt;p&gt;I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.&lt;/p&gt;
-&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
+      <guid>//denvernoell.netlify.app/blog/latex_in_word/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic LaTeX equations to get started using LaTeX equation in Microsoft Word.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VBA Made Easy</title>
+      <link>//denvernoell.netlify.app/blog/vba-made-easy/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/vba-made-easy/</guid>
+      <description>I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.
+wow was I wrong!</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://denvernoell.com/blog/jim-martin/</link>
+      <link>//denvernoell.netlify.app/blog/jim-martin/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/jim-martin/</guid>
+      <guid>//denvernoell.netlify.app/blog/jim-martin/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://denvernoell.com/blog/markdown-syntax/</link>
+      <link>//denvernoell.netlify.app/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/markdown-syntax/</guid>
+      <guid>//denvernoell.netlify.app/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://denvernoell.com/blog/rich-content-copy/</link>
+      <link>//denvernoell.netlify.app/blog/rich-content-copy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/rich-content-copy/</guid>
+      <guid>//denvernoell.netlify.app/blog/rich-content-copy/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://denvernoell.com/blog/rich-content/</link>
+      <link>//denvernoell.netlify.app/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/rich-content/</guid>
+      <guid>//denvernoell.netlify.app/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://denvernoell.com/blog/placeholder-text/</link>
+      <link>//denvernoell.netlify.app/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/placeholder-text/</guid>
+      <guid>//denvernoell.netlify.app/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://denvernoell.com/blog/emoji-support/</link>
+      <link>//denvernoell.netlify.app/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/emoji-support/</guid>
+      <guid>//denvernoell.netlify.app/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Steel Helper</title>
-      <link>https://denvernoell.com/blog/steel-helper/</link>
+      <link>//denvernoell.netlify.app/blog/steel-helper/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/steel-helper/</guid>
+      <guid>//denvernoell.netlify.app/blog/steel-helper/</guid>
       <description>&lt;p&gt;Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.&lt;/p&gt;
+&lt;p&gt;This was dope because&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://denvernoell.com/about/</link>
+      <link>//denvernoell.netlify.app/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/about/</guid>
+      <guid>//denvernoell.netlify.app/about/</guid>
       <description>I am currently a Civil Engineering student emphasizing in water resources. Below is some history of my past work
 I am currently the Treasurer for the Fresno State Chapter of American Society of Civil Engineers (ASCE)
 Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
@@ -100,10 +109,10 @@ Written in Go, Hugo is an open source static site generator available under the 
     
     <item>
       <title>Contact</title>
-      <link>https://denvernoell.com/contact/</link>
+      <link>//denvernoell.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/contact/</guid>
+      <guid>//denvernoell.netlify.app/contact/</guid>
       <description></description>
     </item>
     

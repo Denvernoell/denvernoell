@@ -3,431 +3,456 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://denvernoell.com/blog/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <loc>//denvernoell.netlify.app/blog/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/blog/"
+                href="//denvernoell.netlify.app/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/blog/"
+                href="//denvernoell.netlify.app/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/programming/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://denvernoell.com/tags/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <loc>//denvernoell.netlify.app/categories/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/tags/"
+                href="//denvernoell.netlify.app/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://denvernoell.com/pl/tags/"
+                href="//denvernoell.netlify.app/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://denvernoell.com/pt/tags/"
+                href="//denvernoell.netlify.app/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://denvernoell.com/de/tags/"
+                href="//denvernoell.netlify.app/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://denvernoell.com/es/tags/"
+                href="//denvernoell.netlify.app/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://denvernoell.com/zh-cn/tags/"
+                href="//denvernoell.netlify.app/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://denvernoell.com/zh-tw/tags/"
+                href="//denvernoell.netlify.app/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://denvernoell.com/ja/tags/"
+                href="//denvernoell.netlify.app/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://denvernoell.com/nl/tags/"
+                href="//denvernoell.netlify.app/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/tags/"
+                href="//denvernoell.netlify.app/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/vba/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <loc>//denvernoell.netlify.app/tags/equations/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/blog/vba-made-easy/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <loc>//denvernoell.netlify.app/tags/latex/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>//denvernoell.netlify.app/blog/latex_in_word/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/tags/microsoft/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/categories/syntax/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/categories/"
+                href="//denvernoell.netlify.app/fr/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//denvernoell.netlify.app/categories/syntax/"
+                />
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/tags/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//denvernoell.netlify.app/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://denvernoell.com/pl/categories/"
+                href="//denvernoell.netlify.app/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://denvernoell.com/pt/categories/"
+                href="//denvernoell.netlify.app/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://denvernoell.com/de/categories/"
+                href="//denvernoell.netlify.app/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://denvernoell.com/es/categories/"
+                href="//denvernoell.netlify.app/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://denvernoell.com/zh-cn/categories/"
+                href="//denvernoell.netlify.app/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://denvernoell.com/zh-tw/categories/"
+                href="//denvernoell.netlify.app/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://denvernoell.com/ja/categories/"
+                href="//denvernoell.netlify.app/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://denvernoell.com/nl/categories/"
+                href="//denvernoell.netlify.app/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/categories/"
+                href="//denvernoell.netlify.app/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/css/</loc>
+    <loc>//denvernoell.netlify.app/categories/themes/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="//denvernoell.netlify.app/fr/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//denvernoell.netlify.app/categories/themes/"
+                />
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/tags/word/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/tags/programming/</loc>
+    <lastmod>2021-01-14T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/tags/vba/</loc>
+    <lastmod>2021-01-14T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/blog/vba-made-easy/</loc>
+    <lastmod>2021-01-14T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/tags/css/"
+                href="//denvernoell.netlify.app/fr/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/tags/css/"
+                href="//denvernoell.netlify.app/tags/css/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/html/</loc>
+    <loc>//denvernoell.netlify.app/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/tags/html/"
+                href="//denvernoell.netlify.app/fr/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/tags/html/"
+                href="//denvernoell.netlify.app/tags/html/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/markdown/</loc>
+    <loc>//denvernoell.netlify.app/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/tags/markdown/"
+                href="//denvernoell.netlify.app/fr/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/tags/markdown/"
+                href="//denvernoell.netlify.app/tags/markdown/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/blog/jim-martin/</loc>
+    <loc>//denvernoell.netlify.app/blog/jim-martin/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/blog/markdown-syntax/</loc>
+    <loc>//denvernoell.netlify.app/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/categories/syntax/</loc>
+    <loc>//denvernoell.netlify.app/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/categories/syntax/"
+                href="//denvernoell.netlify.app/fr/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/categories/syntax/"
+                href="//denvernoell.netlify.app/tags/themes/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://denvernoell.com/fr/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://denvernoell.com/tags/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://denvernoell.com/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://denvernoell.com/fr/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://denvernoell.com/categories/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://denvernoell.com/tags/privacy/</loc>
+    <loc>//denvernoell.netlify.app/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/tags/privacy/"
+                href="//denvernoell.netlify.app/fr/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/tags/privacy/"
+                href="//denvernoell.netlify.app/tags/privacy/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/blog/rich-content-copy/</loc>
+    <loc>//denvernoell.netlify.app/blog/rich-content-copy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/blog/rich-content/</loc>
+    <loc>//denvernoell.netlify.app/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/shortcodes/</loc>
+    <loc>//denvernoell.netlify.app/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/tags/shortcodes/"
+                href="//denvernoell.netlify.app/fr/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/tags/shortcodes/"
+                href="//denvernoell.netlify.app/tags/shortcodes/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/blog/placeholder-text/</loc>
+    <loc>//denvernoell.netlify.app/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/text/</loc>
+    <loc>//denvernoell.netlify.app/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/civil-engineering/</loc>
+    <loc>//denvernoell.netlify.app/tags/civil-engineering/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/emoji/</loc>
+    <loc>//denvernoell.netlify.app/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/tags/emoji/"
+                href="//denvernoell.netlify.app/fr/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/tags/emoji/"
+                href="//denvernoell.netlify.app/tags/emoji/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/blog/emoji-support/</loc>
+    <loc>//denvernoell.netlify.app/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/tags/steel/</loc>
+    <loc>//denvernoell.netlify.app/tags/steel/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/blog/steel-helper/</loc>
+    <loc>//denvernoell.netlify.app/blog/steel-helper/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://denvernoell.com/about/</loc>
+    <loc>//denvernoell.netlify.app/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://denvernoell.com/pl/about/"
+                href="//denvernoell.netlify.app/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/about/"
+                href="//denvernoell.netlify.app/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://denvernoell.com/pt/about/"
+                href="//denvernoell.netlify.app/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/about/"
+                href="//denvernoell.netlify.app/about/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/</loc>
+    <loc>//denvernoell.netlify.app/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://denvernoell.com/fr/"
+                href="//denvernoell.netlify.app/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://denvernoell.com/pl/"
+                href="//denvernoell.netlify.app/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://denvernoell.com/pt/"
+                href="//denvernoell.netlify.app/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://denvernoell.com/de/"
+                href="//denvernoell.netlify.app/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://denvernoell.com/es/"
+                href="//denvernoell.netlify.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://denvernoell.com/zh-cn/"
+                href="//denvernoell.netlify.app/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://denvernoell.com/zh-tw/"
+                href="//denvernoell.netlify.app/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://denvernoell.com/ja/"
+                href="//denvernoell.netlify.app/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://denvernoell.com/nl/"
+                href="//denvernoell.netlify.app/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/"
+                href="//denvernoell.netlify.app/"
                 />
   </url>
   
   <url>
-    <loc>https://denvernoell.com/contact/</loc>
+    <loc>//denvernoell.netlify.app/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://denvernoell.com/de/contact/"
+                href="//denvernoell.netlify.app/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://denvernoell.com/es/contact/"
+                href="//denvernoell.netlify.app/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://denvernoell.com/zh-cn/contact/"
+                href="//denvernoell.netlify.app/zh-cn/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://denvernoell.com/contact/"
+                href="//denvernoell.netlify.app/contact/"
                 />
   </url>
   

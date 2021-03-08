@@ -2,120 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Denver Noell</title>
-    <link>https://denvernoell.com/tags/</link>
+    <link>//denvernoell.netlify.app/tags/</link>
     <description>Recent content in Tags on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://denvernoell.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//denvernoell.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Programming</title>
-      <link>https://denvernoell.com/tags/programming/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Equations</title>
+      <link>//denvernoell.netlify.app/tags/equations/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/programming/</guid>
+      <guid>//denvernoell.netlify.app/tags/equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>//denvernoell.netlify.app/tags/latex/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>//denvernoell.netlify.app/tags/microsoft/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word</title>
+      <link>//denvernoell.netlify.app/tags/word/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>//denvernoell.netlify.app/tags/programming/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VBA</title>
-      <link>https://denvernoell.com/tags/vba/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <link>//denvernoell.netlify.app/tags/vba/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
       
-      <guid>https://denvernoell.com/tags/vba/</guid>
+      <guid>//denvernoell.netlify.app/tags/vba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://denvernoell.com/tags/css/</link>
+      <link>//denvernoell.netlify.app/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/css/</guid>
+      <guid>//denvernoell.netlify.app/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://denvernoell.com/tags/html/</link>
+      <link>//denvernoell.netlify.app/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/html/</guid>
+      <guid>//denvernoell.netlify.app/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://denvernoell.com/tags/markdown/</link>
+      <link>//denvernoell.netlify.app/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/markdown/</guid>
+      <guid>//denvernoell.netlify.app/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://denvernoell.com/tags/themes/</link>
+      <link>//denvernoell.netlify.app/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/themes/</guid>
+      <guid>//denvernoell.netlify.app/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://denvernoell.com/tags/privacy/</link>
+      <link>//denvernoell.netlify.app/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/privacy/</guid>
+      <guid>//denvernoell.netlify.app/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://denvernoell.com/tags/shortcodes/</link>
+      <link>//denvernoell.netlify.app/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/shortcodes/</guid>
+      <guid>//denvernoell.netlify.app/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://denvernoell.com/tags/text/</link>
+      <link>//denvernoell.netlify.app/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/text/</guid>
+      <guid>//denvernoell.netlify.app/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Civil Engineering</title>
-      <link>https://denvernoell.com/tags/civil-engineering/</link>
+      <link>//denvernoell.netlify.app/tags/civil-engineering/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/civil-engineering/</guid>
+      <guid>//denvernoell.netlify.app/tags/civil-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://denvernoell.com/tags/emoji/</link>
+      <link>//denvernoell.netlify.app/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/emoji/</guid>
+      <guid>//denvernoell.netlify.app/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steel</title>
-      <link>https://denvernoell.com/tags/steel/</link>
+      <link>//denvernoell.netlify.app/tags/steel/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/tags/steel/</guid>
+      <guid>//denvernoell.netlify.app/tags/steel/</guid>
       <description></description>
     </item>
     

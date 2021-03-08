@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Civil Engineering on Denver Noell</title>
-    <link>https://denvernoell.com/tags/civil-engineering/</link>
+    <link>//denvernoell.netlify.app/tags/civil-engineering/</link>
     <description>Recent content in Civil Engineering on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://denvernoell.com/tags/civil-engineering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//denvernoell.netlify.app/tags/civil-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Steel Helper</title>
-      <link>https://denvernoell.com/blog/steel-helper/</link>
+      <link>//denvernoell.netlify.app/blog/steel-helper/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoell.com/blog/steel-helper/</guid>
+      <guid>//denvernoell.netlify.app/blog/steel-helper/</guid>
       <description>&lt;p&gt;Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.&lt;/p&gt;
+&lt;p&gt;This was dope because&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
