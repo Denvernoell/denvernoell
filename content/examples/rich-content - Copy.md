@@ -1,32 +1,35 @@
 +++
-title = "Rich Content"
-description = "A brief description of Hugo Shortcodes"
 author = "Hugo Authors"
-date = "2019-03-10"
+date = 2019-03-10T00:00:00Z
+description = "A brief description of Hugo Shortcodes"
 tags = ["shortcodes", "privacy"]
+title = "Rich Content"
+draft = true
 [[images]]
-  src = "img/Stock/chart1.jpg"
-  alt = "Fox"
-  stretch = "Vertical"
+alt = "Fox"
+src = "img/main/logo.jpg"
+stretch = "Vertical"
+
 +++
 
 Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
----
+
+## <!--more-->
 
 <!-- See https://github.com/gohugoio/hugo/issues/7866
+
 ## Instagram Shortcode Simple
 
-{{/*< instagram BGvuInzyFAe hidecaption >*/}}
+{{/_< instagram BGvuInzyFAe hidecaption >_/}}
 
 <br>
--->
+\-->
 
 ---
 
 ## YouTube Privacy Enhanced Shortcode
 
-{{< youtube ZJthWmvUzzc >}}
+{{< youtube gyZtxZVPfPI>}}
 
 <br>
 

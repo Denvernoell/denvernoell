@@ -68,77 +68,7 @@
   </url>
   
   <url>
-    <loc>//denvernoell.netlify.app/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/blog/jim-martin/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/blog/rich-content-copy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//denvernoell.netlify.app/tags/civil-engineering/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,7 +93,19 @@
   </url>
   
   <url>
+    <loc>//denvernoell.netlify.app/web_start/</loc>
+  </url>
+  
+  <url>
     <loc>//denvernoell.netlify.app/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/blog/linux/</loc>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/blog/web_start/</loc>
   </url>
   
 </urlset>

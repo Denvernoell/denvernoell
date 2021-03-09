@@ -1,3 +1,12 @@
+<!-- top of page -->
+{{ if .GetParam "hasMath"}}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/contrib/auto-render.min.js"></script>
+{{ end }}
+
+
+
 <!doctype html>
 <html lang="{{ .Page.Language | default "en" }}">
   {{ partial "head" . }}
@@ -14,3 +23,15 @@
     </div>
   </body>
 </html>
+
+
+
+
+<noscript>
+  <style>.jsonly { display: none }</style>
+</noscript>
+
+<!-- bottom of page -->
+{{ if .GetParam "hasMath"}}
+  <script>renderMathInElement(document.body);</script>
+{{ end }}

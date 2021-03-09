@@ -4,6 +4,7 @@ categories = ["themes", "syntax"]
 date = 2019-03-11T00:00:00Z
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = ["markdown", "css", "html", "themes"]
+draft = true
 title = "Markdown Syntax Guide"
 [[images]]
   src = "img/stock/chain1.jpg"
@@ -18,7 +19,9 @@ src = "img/2019/03/pic03.jpg"
 stretch = "horizontal"
 
 +++
+
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+
 <!--more-->
 
 change made
@@ -73,9 +76,9 @@ Alice | 23
 
 #### Inline Markdown within tables
 
-| Inline    | Markdown    | In    | Table |
-| --- | --- | --- | --- |
-| italics | bold | strikethrough    | code |
+| Inline    | Markdown    | In               | Table |
+| --------- | ----------- | ---------------- | ----- |
+| italics   | bold        | strikethrough    | code  |
 
 ## Code Blocks
 
@@ -108,6 +111,7 @@ Alice | 23
 #### Code block with Hugo's internal highlight shortcode
 
 {{< highlight html >}}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -130,13 +134,13 @@ Alice | 23
 
 #### Unordered List
 
-* List item
-* Another item
-* And another item
+- List item
+- Another item
+- And another item
 
 #### Nested list
 
-* Item
+- Item
   1. First Sub-item
   2. Second Sub-item
 
