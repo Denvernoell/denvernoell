@@ -6,7 +6,7 @@ date = "2021-03-08"
 tags = ["LaTeX", "Microsoft", "Word", "Equations"]
 categories = ["themes", "syntax"]
 [[images]]
-  src = "img/equations1.jpg"
+  src = "/img/equations1.jpg"
   alt = "Equations"
   stretch = "horizontal"
 +++

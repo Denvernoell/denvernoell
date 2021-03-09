@@ -58,7 +58,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/boat_visor.JPG"
+      src                 = "/img/boat_visor.JPG"
       shape               = "circle"
       width               = ""
       alt                 = "Denver"
