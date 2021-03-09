@@ -2,7 +2,7 @@
     "title": "LaTex in Word",
     "date": "",
     "description": "Get started using equations in Microsoft Word",
-    "body": "This article offers a sample of basic LaTeX equations to get started using LaTeX equation in Microsoft Word.\nWhy? If you have ever put equations into a Word Document you might have been frusturated with your results. In order to create an equation it takes using your keyboard as well as looking through the menus to find Greek symbols and needing to click buttons in order to make subscripts and superscripts.\nLuckily within Word, there is the capability to use LaTeX equations.\nLaTeX equations may look intimidating but once you break it down into individual parts it becomes relatively simple.\nBasics    Input Output     A_ab $A_ab$   A_{a,b} $A_{ab}$   A^ab $A^ab$   A^{a,b} $A^{a,b}$   \\frac{a}{b} $\\frac{a}{b}$   \\pi $\\pi$   \\delta $\\delta$   \\Delta $\\Delta$   ",
+    "body": "This article offers a sample of basic LaTeX equations to get started using LaTeX equation in Microsoft Word.\nWhy? If you have ever put equations into a Word Document you might have been frusturated with your results. In order to create an equation it takes using your keyboard as well as looking through the menus to find Greek symbols and needing to click buttons in order to make subscripts and superscripts.\nLuckily within Word, there is the capability to use LaTeX equations.\nLaTeX equations may look intimidating but once you break it down into individual parts it becomes relatively simple.\nBasics    Input Output     A_ab (A_ab)   A_{a,b} (A_{ab})   A^ab $A^ab$   A^{a,b} $A^{a,b}$   \\frac{a}{b} $\\frac{a}{b}$   \\pi $\\pi$   \\delta $\\delta$   \\Delta $\\Delta$   ",
     "ref": "/blog/latex_in_word/"
   },{
     "title": "VBA Made Easy",
