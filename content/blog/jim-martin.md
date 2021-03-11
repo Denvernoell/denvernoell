@@ -9,7 +9,7 @@ categories = ["Blog"]
 [[images]]
   src = "img/camera1.jpg"
   alt = "Mountain Range Through Clouds"
-  stretch = ""
+  stretch = "stretchH"
 +++
 
 What a fun process

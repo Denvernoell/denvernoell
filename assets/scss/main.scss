@@ -27,13 +27,13 @@ $body-font: "Source Sans Pro", Helvetica, sans-serif;
 $code-font: "Courier New", monospace;
 $fa-free-font: "Font Awesome 5 Free";
 $fa-brands-font: "Font Awesome 5 Brands";
-$header-color: 	hsl(0, 1%, 23%);
-$accent-color: 	hsl(175, 60%, 45%);
+$header-color: hsl(0, 1%, 23%);
+$accent-color: hsl(175, 60%, 45%);
 $accent-hover: hsla(175, 60%, 45%, 0.25);
 $warning-color: hsl(332, 60%, 45%);
 $warning-hover: hsla(332, 60%, 45%, 0.25);
 $utility-gray: hsl(0, 0%, 67%);
-$utility-gray-2: 	hsl(210, 13%, 50%);
+$utility-gray-2: hsl(210, 13%, 50%);
 $utility-white: hsl(0, 0%, 96%);
 
 /* Background & Border */
@@ -53,10 +53,10 @@ $headerbg-color: hsl(0, 0%, 93%);
 $avatar-size: 3.75em;
 $hover: 0.2s ease-in-out;
 $hover-slow: 0.35s ease-in-out;
-$shadow-1: 0 3px 6px hsla(0, 0%, 0%, 0.16), 0 3px 6px hsla(0, 0% , 0%, 0.23);
+$shadow-1: 0 3px 6px hsla(0, 0%, 0%, 0.16), 0 3px 6px hsla(0, 0%, 0%, 0.23);
 $shadow-2: 0 10px 20px hsla(0, 0%, 0%, 0.19), 0 6px 6px hsla(0, 0%, 0%, 0.23);
 $shadow-3: 0 14px 28px hsla(0, 0%, 0%, 0.25), 0 10px 10px hsla(0, 0%, 0%, 0.22);
-$shadow-4: 0 19px 38px hsla(0, 0%, 0%, 0.30), 0 15px 12px hsla(0, 0%, 0% ,0.22);
+$shadow-4: 0 19px 38px hsla(0, 0%, 0%, 0.3), 0 15px 12px hsla(0, 0%, 0%, 0.22);
 $shadow-scroll: inset 0 0 6px hsla(0, 0%, 0%, 0.3);
 
 /* Maps */
@@ -81,22 +81,153 @@ $masks: (
   (rhombus, polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%)),
   (pentagon, polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%)),
   (hexagon, polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)),
-  (heptagon, polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%)),
-  (octagon, polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%)),
-  (nonagon, polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%)),
-  (decagon, polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%)),
-  (bevel, polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%)),
-  (rabbet, polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%)),
-  (left-arrow, polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%)),
-  (right-arrow, polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%)),
+  (
+    heptagon,
+    polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%)
+  ),
+  (
+    octagon,
+    polygon(
+      30% 0%,
+      70% 0%,
+      100% 30%,
+      100% 70%,
+      70% 100%,
+      30% 100%,
+      0% 70%,
+      0% 30%
+    )
+  ),
+  (
+    nonagon,
+    polygon(
+      50% 0%,
+      83% 12%,
+      100% 43%,
+      94% 78%,
+      68% 100%,
+      32% 100%,
+      6% 78%,
+      0% 43%,
+      17% 12%
+    )
+  ),
+  (
+    decagon,
+    polygon(
+      50% 0%,
+      80% 10%,
+      100% 35%,
+      100% 70%,
+      80% 90%,
+      50% 100%,
+      20% 90%,
+      0% 70%,
+      0% 35%,
+      20% 10%
+    )
+  ),
+  (
+    bevel,
+    polygon(
+      20% 0%,
+      80% 0%,
+      100% 20%,
+      100% 80%,
+      80% 100%,
+      20% 100%,
+      0% 80%,
+      0% 20%
+    )
+  ),
+  (
+    rabbet,
+    polygon(
+      0% 15%,
+      15% 15%,
+      15% 0%,
+      85% 0%,
+      85% 15%,
+      100% 15%,
+      100% 85%,
+      85% 85%,
+      85% 100%,
+      15% 100%,
+      15% 85%,
+      0% 85%
+    )
+  ),
+  (
+    left-arrow,
+    polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%)
+  ),
+  (
+    right-arrow,
+    polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%)
+  ),
   (left-point, polygon(25% 0%, 100% 1%, 100% 100%, 25% 100%, 0% 50%)),
   (right-point, polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%)),
-  (left-cheveron, polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%)),
-  (right-cheveron, polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%)),
-  (star, polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%)),
-  (cross, polygon(10% 25%, 35% 25%, 35% 0%, 65% 0%, 65% 25%, 90% 25%, 90% 50%, 65% 50%, 65% 100%, 35% 100%, 35% 50%, 10% 50%)),
-  (message, polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%)),
-  (close, polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%)),
+  (
+    left-cheveron,
+    polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%)
+  ),
+  (
+    right-cheveron,
+    polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%)
+  ),
+  (
+    star,
+    polygon(
+      50% 0%,
+      61% 35%,
+      98% 35%,
+      68% 57%,
+      79% 91%,
+      50% 70%,
+      21% 91%,
+      32% 57%,
+      2% 35%,
+      39% 35%
+    )
+  ),
+  (
+    cross,
+    polygon(
+      10% 25%,
+      35% 25%,
+      35% 0%,
+      65% 0%,
+      65% 25%,
+      90% 25%,
+      90% 50%,
+      65% 50%,
+      65% 100%,
+      35% 100%,
+      35% 50%,
+      10% 50%
+    )
+  ),
+  (
+    message,
+    polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%)
+  ),
+  (
+    close,
+    polygon(
+      20% 0%,
+      0% 20%,
+      30% 50%,
+      0% 80%,
+      20% 100%,
+      50% 70%,
+      80% 100%,
+      100% 80%,
+      70% 50%,
+      100% 20%,
+      80% 0%,
+      50% 30%
+    )
+  ),
   (circle, circle(50% at 50% 50%)),
   (vertical-ellipse, ellipse(25% 40% at 50% 50%)),
   (horizontal-ellipse, ellipse(40% 25% at 50% 50%))
@@ -106,17 +237,16 @@ $masks: (
    Mixins
    ========================================================================== */
 
-@mixin prefix($property, $value, $vendors:null ) {
-  $prefixes: ('webkit', 'moz', 'ms', 'o');
+@mixin prefix($property, $value, $vendors: null) {
+  $prefixes: ("webkit", "moz", "ms", "o");
   @if ($vendors) {
     @each $vendor in $vendors {
-      @if index($prefixes, $vendor){
+      @if index($prefixes, $vendor) {
         -#{$vendor}-#{$property}: #{$value};
       }
     }
     #{$property}: #{$value};
-  }
-  @else {
+  } @else {
     @each $prefix in $prefixes {
       -#{$prefix}-#{$property}: #{$value};
     }
@@ -377,7 +507,7 @@ hr {
 cite {
   margin: 1em 0;
   sup {
-    left: .5em
+    left: 0.5em;
   }
 }
 
@@ -582,7 +712,7 @@ table {
 }
 
 figure {
-  background:	$white;
+  background: $white;
   box-shadow: $shadow-1;
   margin: 10px auto;
   max-width: 85%;
@@ -608,7 +738,7 @@ figcaption {
    ========================================================================== */
 
 .post {
-  background:	$white;
+  background: $white;
   margin: 1.5em auto;
   padding: 1em;
   max-width: 55em;
@@ -665,8 +795,11 @@ figcaption {
       width: 100%;
     }
     &.cover {
-      object-fit: cover;
-      width: 100%;
+      // object-fit: cover;
+      // width: 100%;
+
+      width: auto;
+      height: auto;
     }
   }
   &[style]::before {
@@ -748,7 +881,8 @@ figcaption {
         text-align: center;
       }
     }
-    li { // Fix Wrap Small
+    li {
+      // Fix Wrap Small
       font-family: $header-font;
       font-size: 0.6em;
       font-weight: 400;
@@ -956,7 +1090,7 @@ figcaption {
     text-align: center;
     width: 61px;
     i {
-     vertical-align: middle;
+      vertical-align: middle;
     }
   }
 }
@@ -1011,12 +1145,12 @@ figcaption {
       width: 75%;
     }
     @include for-laptop-up {
-      width: 50%
+      width: 50%;
     }
     a {
       border-bottom: 0;
       &:hover {
-        color:inherit;
+        color: inherit;
         box-shadow: $shadow-3;
         transition: box-shadow $hover;
       }
@@ -1033,7 +1167,7 @@ figcaption {
       }
     }
     main {
-      padding: 0 1.25em .1em;
+      padding: 0 1.25em 0.1em;
     }
   }
 }
@@ -1162,7 +1296,8 @@ figcaption {
       flex-basis: 100%;
       order: 1;
     }
-    .share-toggle, .search-toggle {
+    .share-toggle,
+    .search-toggle {
       display: block;
       flex-basis: 100%;
       order: 3;
@@ -1280,15 +1415,15 @@ figcaption {
       margin-top: 0;
     }
   }
-    ul {
-      font-family: $header-font;
-      font-size: 0.9em;
-      letter-spacing: 0.25em;
-      line-height: 1.65;
-      text-transform: uppercase;
-      list-style: none;
-      padding: 0;
-    }
+  ul {
+    font-family: $header-font;
+    font-size: 0.9em;
+    letter-spacing: 0.25em;
+    line-height: 1.65;
+    text-transform: uppercase;
+    list-style: none;
+    padding: 0;
+  }
   footer {
     margin: auto;
     width: max-content;
@@ -1435,7 +1570,7 @@ figcaption {
         font-family: $fa-free-font;
         font-weight: 900;
         content: "\f3e5";
-        margin-right: .5em;
+        margin-right: 0.5em;
         width: 20px;
       }
     }
@@ -1501,7 +1636,7 @@ figcaption {
   height: $avatar-size;
   flex-grow: 0;
   @include for-mobile-l-up {
-    margin: 0 .5em 0 0;
+    margin: 0 0.5em 0 0;
     &.circle {
       @include prefix(clip-path, none, webkit);
     }
@@ -1512,8 +1647,8 @@ figcaption {
   font-size: 0.9em;
   margin: 0;
   @include for-laptop-up {
-    margin-right: .5em;
-    padding-right: .5em;
+    margin-right: 0.5em;
+    padding-right: 0.5em;
     border-right: $primary-border;
   }
 }
@@ -1524,7 +1659,7 @@ figcaption {
     font-family: $fa-free-font;
     font-weight: 900;
     content: "\f3e5";
-    margin-right: .5em;
+    margin-right: 0.5em;
     width: 20px;
   }
   @include for-mobile-l-up {
@@ -1591,12 +1726,12 @@ figcaption {
       background-color: darken($color, 10%);
     }
     &::before {
-    @if $font-family {
-      font-family: $font-family;
-    } @else {
-      font-family: $fa-brands-font;
-    }
-    content: $icon;
+      @if $font-family {
+        font-family: $font-family;
+      } @else {
+        font-family: $fa-brands-font;
+      }
+      content: $icon;
     }
   }
 }

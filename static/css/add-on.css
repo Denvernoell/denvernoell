@@ -4,3 +4,563 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+
+/* From Somorat blog style.css */
+/* ========= Start Experience ======= */
+
+.experience-skill {
+  margin-top: 40px;
+}
+
+.experience h3,
+.skill h3 {
+  color: #6f6f6f;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.experience-chart {
+  list-style: none;
+  padding: 0px 0px 0px 6px;
+  margin-top: 40px;
+}
+
+ul.experience-chart li {
+  padding-left: 30px;
+  border-left: 2px solid #6f6f6f;
+  padding-bottom: 10px;
+  position: relative;
+}
+
+ul.experience-chart li:last-child {
+  padding-bottom: 0;
+}
+
+ul.experience-chart li:after {
+  position: absolute;
+  top: -1px;
+  left: -12px;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #4d4d4d;
+  background: #fff;
+  content: "";
+  -webkit-transition: all 0.3s;
+  transition: all 0.7s;
+}
+
+ul.experience-chart li:hover:after {
+  background: #4d4d4d;
+}
+
+ul.experience-chart h4 {
+  font-size: 19px;
+  margin-top: 0;
+  margin-bottom: 4px;
+  font-weight: 700;
+  color: #4d4d4d;
+}
+
+.experience-chart li span {
+  font-weight: 700;
+  color: #6f6f6f;
+}
+
+.experience-chart li p {
+  color: #6f6f6f;
+}
+
+.single-experience {
+  position: relative;
+  top: -2px;
+}
+
+/* ========= Start Skill ======= */
+
+.skill-progress-bar {
+  margin-top: 41px;
+}
+
+.skillbar {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 40px;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  background: #fff;
+  border: 2px solid #6f6f6f;
+  height: 18px;
+  border-radius: 22px;
+  -moz-border-radius: 22px;
+  -webkit-border-radius: 22px;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+  -webkit-transition-property: width, background-color;
+  transition-property: width, background-color;
+}
+
+.no-js .first-skill {
+  width: 98%;
+}
+
+.no-js .second-skill {
+  width: 85%;
+}
+
+.no-js .third-skill {
+  width: 92%;
+}
+
+.no-js .fourth-skill {
+  width: 60%;
+}
+
+.skillbar-title,
+.skill-bar-percent {
+  font-size: 16px;
+  color: #4d4d4d;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 7px;
+}
+
+.skill-bar-percent {
+  float: right;
+}
+
+.skillbar-bar {
+  height: 10px;
+  margin: 0px 2px;
+  width: 0px;
+  background: #4d4d4d;
+  border-radius: 22px;
+  -moz-border-radius: 22px;
+  -webkit-border-radius: 22px;
+}
+
+/*--------------------------------
+   End About Me
+----------------------------------*/
+
+/*--------------------------------
+  Start Certifications
+----------------------------------*/
+
+.certifications {
+  background: #fff;
+  padding: 70px 0px;
+}
+
+.certifications-heading {
+  position: relative;
+}
+
+.certifications-heading h1 {
+  color: #6f6f6f;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 4px;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.certifications-heading h1:before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  right: 0;
+  left: 0;
+  margin: auto;
+  width: 70px;
+  height: 5px;
+  background: #6f6f6f;
+}
+
+.certifications-icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 30px;
+  padding-bottom: 40px;
+}
+
+.certification-img {
+  width: 100px;
+  margin: auto;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+}
+
+.certifications-icon img {
+  width: 100%;
+}
+
+.certification-label {
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  font-size: 19px;
+}
+
+.certifications h4 {
+  font-size: 19px;
+  margin-top: 0;
+  margin-bottom: 4px;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: #4d4d4d;
+}
+
+/*--------------------------------
+ End Certifications
+----------------------------------*/
+
+/*--------------------------------
+   Start Portfolio
+----------------------------------*/
+
+.portfolio {
+  background: #fff;
+  padding: 70px 0px;
+}
+
+.portfolio h1 {
+  color: #6f6f6f;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 4px;
+  position: relative;
+}
+
+.portfolio h1:before {
+  content: "";
+  height: 5px;
+  background: #6f6f6f;
+  position: absolute;
+  top: -15px;
+  left: 46.5%;
+  right: 46.5%;
+}
+
+.filtering {
+  width: 100%;
+  padding: 25px 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  display: -moz-box;
+  display: -webkit-flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.no-js .filtering {
+  display: none;
+}
+
+.portfolio-navigation {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: inherit;
+  list-style: none;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding-left: 0;
+}
+
+.no-flexbox .portfolio-navigation {
+  display: inherit;
+}
+
+.portfolio-navigation li {
+  cursor: pointer;
+  padding: 7px 14px;
+  border: 1.5px solid #6f6f6f;
+  color: #6f6f6f;
+  font-weight: 700;
+  margin: 0 5px;
+}
+
+.portfolio-navigation li.active {
+  background: #6f6f6f;
+  color: #fff;
+}
+
+.portfolio .hvr-sweep-to-right:before {
+  background: #6f6f6f;
+}
+
+.portfolio .hvr-sweep-to-right.active:before {
+  background: transparent;
+}
+
+.filtr-item img {
+  width: 100%;
+  -webkit-transition: -webkit-transform 0.5s ease-in-out;
+  transition: -webkit-transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+}
+
+.filtr-item:hover .item-holder img {
+  -webkit-transform: translateX(150px);
+  transform: translateX(150px);
+  cursor: pointer;
+}
+
+.item-holder {
+  position: relative;
+  -webkit-transition: -webkit-transform 0.5s;
+  transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+  transition: transform 0.5s, -webkit-transform 0.5s;
+  overflow: hidden;
+}
+
+.item-caption {
+  position: absolute;
+  top: 24px;
+  bottom: 0;
+  left: 0;
+  width: 150px;
+  background: #313131;
+  -webkit-transform: translateX(-150px);
+  transform: translateX(-150px);
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+.item-caption h2 {
+  font-size: 32px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 700;
+  padding-left: 13px;
+}
+
+.item-caption p {
+  padding-left: 16px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+}
+
+.item-created {
+  text-decoration: none;
+  position: absolute;
+  bottom: 16px;
+  left: 17px;
+  background: #6f6f6f;
+  padding: 5px 10px;
+}
+
+.filtr-item:hover .item-caption {
+  -webkit-transform: translateX(0px);
+  transform: translateX(0px);
+}
+
+.item-holder a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.item-holder a:focus {
+  outline: none;
+}
+
+.mfp-zoom-out-cur,
+.mfp-zoom-out-cur .mfp-image-holder,
+.mfp-close {
+  cursor: crosshair;
+}
+
+.loadmore {
+  display: inline-block;
+  background: transparent;
+  margin-top: 25px;
+  text-decoration: none;
+  color: #6f6f6f;
+  font-family: "Rubik", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  border: 2px solid #6f6f6f;
+  padding: 5px 18px;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.loadmore:hover {
+  background: #6f6f6f;
+  color: #fff;
+  border: 2px solid #6f6f6f;
+  text-decoration: none;
+}
+
+/*--------------------------------
+ End Portfolio
+----------------------------------*/
+
+/*--------------------------------
+   Start Testimonials
+----------------------------------*/
+
+/* ========= Start Main Testimonials ======= */
+
+.testimonials {
+  background: #fff;
+  padding: 70px 0px;
+}
+
+.owl-carousel {
+  margin-top: 50px;
+  margin-bottom: 75px;
+}
+
+.testimonials-container h1 {
+  position: relative;
+  text-align: center;
+  color: #6f6f6f;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.testimonials-container h1:before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 50px;
+  height: 5px;
+  background: #6f6f6f;
+}
+
+.single-testimonial img {
+  width: 160px;
+  margin: auto;
+  border-radius: 100%;
+}
+
+.no-js .single-testimonial img {
+  width: 165px;
+  display: inherit;
+}
+
+.single-testimonial h2 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 26px;
+  margin-top: 25px;
+  margin-bottom: 2px;
+}
+
+.single-testimonial span {
+  display: block;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 700;
+  color: #6f6f6f;
+  margin-bottom: 15px;
+}
+
+.single-testimonial p {
+  color: #6f6f6f;
+  font-weight: 500;
+  font-size: 17px;
+  width: 60%;
+  text-align: center;
+  margin: auto;
+}
+
+.no-js .single-testimonial p {
+  margin-bottom: 40px;
+}
+
+.single-testimonial .fa {
+  font-size: 25px;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+  background: #fff;
+  border: 2px solid #6f6f6f;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: #6f6f6f;
+}
+
+.owl-theme .owl-nav.disabled + .owl-dots {
+  margin-top: 20px;
+}
+
+/* ========= 7.2 Start Fun Facts ======= */
+
+.no-js .fun-facts {
+  display: none;
+}
+
+.fun-facts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  height: auto;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.fun-fact-holder {
+  width: 130px;
+}
+
+.fun-fact-holder img {
+  display: block;
+  margin: auto;
+  width: 50px;
+}
+
+.fun-fact-holder p {
+  text-align: center;
+  font-size: 14px;
+  margin-top: -10px;
+  color: #6f6f6f;
+  font-weight: 700;
+}
+
+.fun-fact-holder .fact-counter {
+  text-align: center;
+  font-weight: 700;
+  font-size: 21px;
+  margin-top: 13px;
+}
+
+/*--------------------------------
+   End Testimonials
+----------------------------------*/

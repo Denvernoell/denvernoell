@@ -10,7 +10,7 @@ hasMath = true
 [[images]]
   src = "/img/equations1.jpg"
   alt = "Equations"
-  stretch = "horizontal"
+  stretch = "cover"
 +++
 
 This article offers a sample of basic LaTeX equations to get started using LaTeX equation in Microsoft Word.

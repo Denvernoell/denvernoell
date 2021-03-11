@@ -1,22 +1,18 @@
 +++
 title = "I created a website and so can you"
-description = "How I created and hosted a website the semi-hard way without knowing anything about web-dev beforehand.sync-conflict-20210106-170248-LRH4KH7"
+description = "How making a simple website taught me about many aspects of the tech world."
 author = "Denver Noell"
-date = ""
-tags = [""]
-categories = [""]
+date = "2021-03-09"
+tags = ["Web Development"]
+categories = ["Storytelling"]
 comments = true
 removeBlur = true
 hasMath = true
 [[images]]
-  src = "img/stock/programming1.jpg"
+  src = "img/programming1.jpg"
   alt = "Photo"
-  stretch = "Vertical"
+  stretch = "cover"
 +++
-
-[[Blogging]]
-
-# How making a simple website taught me about many aspects of the tech world
 
 ## HTML
 

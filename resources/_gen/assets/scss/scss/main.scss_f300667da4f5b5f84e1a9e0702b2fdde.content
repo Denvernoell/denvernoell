@@ -194,7 +194,7 @@ hr {
 cite {
   margin: 1em 0; }
   cite sup {
-    left: .5em; }
+    left: 0.5em; }
 
 input[type="submit"],
 input[type="reset"],
@@ -450,8 +450,8 @@ figcaption {
     .image img.stretchH {
       width: 100%; }
     .image img.cover {
-      object-fit: cover;
-      width: 100%; }
+      width: auto;
+      height: auto; }
   .image[style]::before {
     content: "";
     position: absolute;
@@ -789,7 +789,7 @@ figcaption {
           flex-grow: 1;
           font-size: 1em; } }
     .search-results .mini-post main {
-      padding: 0 1.25em .1em; }
+      padding: 0 1.25em 0.1em; }
 
 .mini-post {
   background: white;
@@ -907,12 +907,14 @@ figcaption {
       display: inline-flex;
       flex-basis: 100%;
       order: 1; }
-    #site-nav .flyout-menu .share-toggle, #site-nav .flyout-menu .search-toggle {
+    #site-nav .flyout-menu .share-toggle,
+    #site-nav .flyout-menu .search-toggle {
       display: block;
       flex-basis: 100%;
       order: 3; }
       @media (min-width: 425px) {
-        #site-nav .flyout-menu .share-toggle, #site-nav .flyout-menu .search-toggle {
+        #site-nav .flyout-menu .share-toggle,
+        #site-nav .flyout-menu .search-toggle {
           display: none; } }
 #search {
   display: -webkit-box;
@@ -1132,7 +1134,7 @@ figcaption {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     content: "\f3e5";
-    margin-right: .5em;
+    margin-right: 0.5em;
     width: 20px; }
 
 .submit-success {
@@ -1194,7 +1196,7 @@ figcaption {
   flex-grow: 0; }
   @media (min-width: 375px) {
     .comment-avatar {
-      margin: 0 .5em 0 0; }
+      margin: 0 0.5em 0 0; }
       .comment-avatar.circle {
         -webkit-clip-path: none;
         clip-path: none; } }
@@ -1203,8 +1205,8 @@ figcaption {
   margin: 0; }
   @media (min-width: 768px) {
     .comment-author {
-      margin-right: .5em;
-      padding-right: .5em;
+      margin-right: 0.5em;
+      padding-right: 0.5em;
       border-right: 1px solid rgba(161, 161, 161, 0.3); } }
 .comment-reply-btn {
   border: 0; }
@@ -1212,7 +1214,7 @@ figcaption {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     content: "\f3e5";
-    margin-right: .5em;
+    margin-right: 0.5em;
     width: 20px; }
   @media (min-width: 375px) {
     .comment-reply-btn {

@@ -61,8 +61,8 @@
   other = "Your Name"
 [form_email]
   other = "Your Email"
-[form_website]
-  other = "Your Website"
+#[form_website]
+#  other = "Your Website"
 [form_subject]
   other = "Your Subject"
 [form_body]

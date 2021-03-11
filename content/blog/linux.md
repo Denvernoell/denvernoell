@@ -2,16 +2,16 @@
 title = "How I got started with Linux"
 description = "How I Learned More About Tech When I Started Using Linux"
 author = "Denver Noell"
-date = ""
-tags = [""]
-categories = [""]
+date = "2021-03-09"
+tags = ["Linux"]
+categories = ["Reflection"]
 removeBlur = true
 comments = true
 hasMath = true
 [[images]]
-  src = "img/stock/penguins1.jpg"
+  src = "img/penguins1.jpg"
   alt = "Photo"
-  stretch = "Horizontal"
+  stretch = "cover"
 +++
 
 When Covid hit my city pretty hard, my company descided to switch to remote work in order to mitigate risk. In our office, employees have dual-monitor set ups. To anyone who has never had a dual or tri-monitor set up, try it, you'll like it. Because of this, our boss reccommended getting a second monitor if we did not already have one so that we could mimic our office set up as well as possible. This caused me to scour the internet to find a monitor that was cheap but also fit my needs.
