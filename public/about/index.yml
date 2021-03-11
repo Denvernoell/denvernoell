@@ -1,0 +1,164 @@
+############################ Experience ##############################
+experience:
+  enable: true
+  title: "Experience"
+  experience_list:
+    # experience item loop
+    - name: "Swim Coach"
+      company: "Tule Nation Tritons"
+      duration: "2016-2018"
+      content: ""
+
+    # experience item loop
+    - name: "Summer Intern"
+      company: "Lane Engineers"
+      duration: "2019"
+      content: ""
+
+    # experience item loop
+    - name: "Assistant Engineer"
+      company: "Akel Engineering Group"
+      duration: "2019-present"
+      content: ""
+
+############################### Skill #################################
+skill:
+  enable: false
+  title: "Skills"
+  skill_list:
+    # skill item loop
+    - name: "VBA"
+      percentage: "98%"
+      icon: "images/microsoftexcel.svg"
+
+    # skill item loop
+    - name: "Web Development"
+      percentage: "85%"
+      image: "images/computer.svg"
+
+    # skill item loop
+    - name: "Python"
+      percentage: "90%"
+      image: "images/python.svg"
+
+    # skill item loop
+    - name: "Project Management"
+      percentage: "70%"
+      image: "images/folder.svg"
+
+################################### Service ##############################3
+service:
+  enable: true
+  title: "Skills"
+  service_list:
+    # service item loop
+    - name: "Excel Automation With VBA"
+      icon: "images/microsoftexcel.svg"
+
+    # service item loop
+    - name: "Task Automation"
+      icon: "images/folder.svg"
+
+    # service item loop
+    - name: "Web Development"
+      icon: "images/microsoft.svg"
+
+    # service item loop
+    - name: "Python Development"
+      icon: "images/python.svg"
+
+############################## call to action #########################
+call_to_action:
+  enable: false
+  bg_image: "images/water1.jpg"
+  title: "Interested?"
+  button:
+    enable: true
+    label: "Get connected"
+    link: "#contact"
+
+############################# portfolio ################################
+portfolio:
+  enable: false
+  title: "PORTFOLIO"
+  portfolio_list:
+    # portfolio item loop
+    - name: "Getting started with AHK <br> "
+      image: "images/portfolio/item1.jpg"
+      date: "Feb 2018"
+      category: "Web Development"
+
+    # portfolio item loop
+    - name: "VBA Made Easy"
+      image: "images/portfolio/item2.jpg"
+      date: "Feb 2018"
+      category: "Web Development"
+
+    # portfolio item loop
+    - name: "Project <br> Title"
+      image: "images/portfolio/item3.jpg"
+      date: "Feb 2018"
+      category: "Web Development"
+
+################################# Testimonial #########################33
+testimonial:
+  enable: false
+  title: "TESTIMONIALS"
+  testimonial_slider:
+    # slider item loop
+    - name: "Alison Briano"
+      image: "images/clients/client1.jpg"
+      designation: "Swim Coach, COS"
+      content: ""
+
+    # slider item loop
+    - name: "Mike Yeniguis"
+      image: "images/clients/client2.jpg"
+      designation: "Water Polo and Swim Coach, MWHS"
+      content: ""
+
+    # slider item loop
+    - name: "Cory Ogborn"
+      image: "images/clients/client3.jpg"
+      designation: "College and Careers Pastor, Grace Community Church"
+      content: ""
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    # funfacts item loop
+    - name: "Games Played"
+      image: "images/playing-cards.svg"
+      count: "100"
+
+    # funfacts item loop
+    - name: "Projects Completed"
+      image: "images/computer1.svg"
+      count: "200"
+
+    # funfacts item loop
+    - name: "Meals Cooked"
+      image: "images/apron.svg"
+      count: "250"
+
+    # funfacts item loop
+    - name: "Cups Of Tea"
+      image: "images/icons/coffee.png"
+      count: "150"
+
+      # funfacts item loop
+    - name: "Matches Played"
+      image: "images/PickleBall.svg"
+      count: "75"
+
+##### Interests #
+
+# interests item list
+interests:
+  enable: true
+  interests_list:
+    # funfacts item loop
+    - name: "Lessons Learned"
+      image: "images/icons/works.png"
+      color: "blue"

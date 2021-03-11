@@ -6,10 +6,82 @@
     <description>Recent content in Tags on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//denvernoell.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Excel</title>
+      <link>//denvernoell.netlify.app/tags/excel/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>//denvernoell.netlify.app/tags/photography/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VBA</title>
+      <link>//denvernoell.netlify.app/tags/vba/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/vba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>//denvernoell.netlify.app/tags/programming/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 -0800</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civil Engineering</title>
+      <link>//denvernoell.netlify.app/tags/civil-engineering/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/civil-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>//denvernoell.netlify.app/tags/linux/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steel</title>
+      <link>//denvernoell.netlify.app/tags/steel/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/steel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>//denvernoell.netlify.app/tags/web-development/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/tags/web-development/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Equations</title>
@@ -44,42 +116,6 @@
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>//denvernoell.netlify.app/tags/word/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>//denvernoell.netlify.app/tags/programming/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
-      
-      <guid>//denvernoell.netlify.app/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VBA</title>
-      <link>//denvernoell.netlify.app/tags/vba/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
-      
-      <guid>//denvernoell.netlify.app/tags/vba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Civil Engineering</title>
-      <link>//denvernoell.netlify.app/tags/civil-engineering/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>//denvernoell.netlify.app/tags/civil-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steel</title>
-      <link>//denvernoell.netlify.app/tags/steel/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>//denvernoell.netlify.app/tags/steel/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current on Denver Noell</title>
+    <link>//denvernoell.netlify.app/categories/current/</link>
+    <description>Recent content in Current on Denver Noell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//denvernoell.netlify.app/categories/current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Steel Helper</title>
+      <link>//denvernoell.netlify.app/blog/steel-helper/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/steel-helper/</guid>
+      <description>Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.
+This was dope because&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflection on Denver Noell</title>
+    <link>//denvernoell.netlify.app/categories/reflection/</link>
+    <description>Recent content in Reflection on Denver Noell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//denvernoell.netlify.app/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I got started with Linux</title>
+      <link>//denvernoell.netlify.app/blog/linux/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/linux/</guid>
+      <description>When Covid hit my city pretty hard, my company descided to switch to remote work in order to mitigate risk. In our office, employees have dual-monitor set ups. To anyone who has never had a dual or tri-monitor set up, try it, you&amp;rsquo;ll like it. Because of this, our boss reccommended getting a second monitor if we did not already have one so that we could mimic our office set up as well as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

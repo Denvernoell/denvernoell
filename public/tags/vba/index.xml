@@ -6,15 +6,24 @@
     <description>Recent content in VBA on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//denvernoell.netlify.app/tags/vba/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>How I Scanned and Organized 10,000 Photos using VBA and Excel</title>
+      <link>//denvernoell.netlify.app/blog/jim-martin/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/jim-martin/</guid>
+      <description>What a fun process</description>
+    </item>
+    
+    <item>
       <title>VBA Made Easy</title>
       <link>//denvernoell.netlify.app/blog/vba-made-easy/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 -0800</pubDate>
       
       <guid>//denvernoell.netlify.app/blog/vba-made-easy/</guid>
       <description>I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.

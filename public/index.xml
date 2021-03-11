@@ -12,6 +12,53 @@
     
     
     <item>
+      <title>How I Scanned and Organized 10,000 Photos using VBA and Excel</title>
+      <link>//denvernoell.netlify.app/blog/jim-martin/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/jim-martin/</guid>
+      <description>What a fun process</description>
+    </item>
+    
+    <item>
+      <title>VBA Made Easy</title>
+      <link>//denvernoell.netlify.app/blog/vba-made-easy/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 -0800</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/vba-made-easy/</guid>
+      <description>I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.
+wow was I wrong!</description>
+    </item>
+    
+    <item>
+      <title>How I got started with Linux</title>
+      <link>//denvernoell.netlify.app/blog/linux/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/linux/</guid>
+      <description>When Covid hit my city pretty hard, my company descided to switch to remote work in order to mitigate risk. In our office, employees have dual-monitor set ups. To anyone who has never had a dual or tri-monitor set up, try it, you&amp;rsquo;ll like it. Because of this, our boss reccommended getting a second monitor if we did not already have one so that we could mimic our office set up as well as possible.</description>
+    </item>
+    
+    <item>
+      <title>I created a website and so can you</title>
+      <link>//denvernoell.netlify.app/blog/web_start/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/web_start/</guid>
+      <description>HTML I watched a video about how to host a website for free with Github Pages. They showed that html5up.net had many templates that could be used and edited for free that actually look really cool. Going to the site I downloaded a couple of the templates and started looking at the HTML. Fun fact, I didn&amp;rsquo;t know HTML at the time. So I watched a crash course to teach me the basics of what different elements were used for and how they affected the website.</description>
+    </item>
+    
+    <item>
+      <title>Steel Helper</title>
+      <link>//denvernoell.netlify.app/blog/steel-helper/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/steel-helper/</guid>
+      <description>Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.
+This was dope because&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>LaTex in Word</title>
       <link>//denvernoell.netlify.app/blog/latex_in_word/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
@@ -21,41 +68,14 @@
     </item>
     
     <item>
-      <title>VBA Made Easy</title>
-      <link>//denvernoell.netlify.app/blog/vba-made-easy/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 -0800</pubDate>
-      
-      <guid>//denvernoell.netlify.app/blog/vba-made-easy/</guid>
-      <description>I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.
-wow was I wrong!</description>
-    </item>
-    
-    <item>
-      <title>Steel Helper</title>
-      <link>//denvernoell.netlify.app/blog/steel-helper/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>//denvernoell.netlify.app/blog/steel-helper/</guid>
-      <description>Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.
-This was dope because&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>À propos de</title>
+      <title>About</title>
       <link>//denvernoell.netlify.app/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>//denvernoell.netlify.app/about/</guid>
-      <description>Écrit dans Go, Hugo est un générateur de site statique open source disponible sous la [Apache License 2.0.] (Https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo prend en charge les types de fichiers de données TOML, YAML et JSON , Markdown et fichiers de contenu HTML et utilise des shortcodes pour ajouter du contenu riche. Les autres fonctionnalités notables sont les taxonomies, le mode multilingue, le traitement d&amp;rsquo;image, les formats de sortie personnalisés, la minification HTML / CSS / JS et la prise en charge des flux de travail Sass SCSS.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//denvernoell.netlify.app/web_start/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//denvernoell.netlify.app/web_start/</guid>
-      <description></description>
+      <description>&amp;ldquo;Civil Engineer&amp;rdquo; &amp;ldquo;Water Specialist&amp;rdquo; &amp;ldquo;Lifelong learner&amp;rdquo;  &amp;ldquo;I am Denver, Civil Engineer. I love to simplify complex tasks, it&amp;rsquo;s my passion. I am here to help you.&amp;rdquo;
+I am currently a Civil Engineering student emphasizing in water resources. Below is some history of my past work
+I am currently the Treasurer for the Fresno State Chapter of American Society of Civil Engineers (ASCE)</description>
     </item>
     
     <item>
@@ -65,25 +85,6 @@ This was dope because&amp;hellip;</description>
       
       <guid>//denvernoell.netlify.app/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>How I got started with Linux</title>
-      <link>//denvernoell.netlify.app/blog/linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//denvernoell.netlify.app/blog/linux/</guid>
-      <description>When Covid hit my city pretty hard, my company descided to switch to remote work in order to mitigate risk. In our office, employees have dual-monitor set ups. To anyone who has never had a dual or tri-monitor set up, try it, you&amp;rsquo;ll like it. Because of this, our boss reccommended getting a second monitor if we did not already have one so that we could mimic our office set up as well as possible.</description>
-    </item>
-    
-    <item>
-      <title>I created a website and so can you</title>
-      <link>//denvernoell.netlify.app/blog/web_start/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//denvernoell.netlify.app/blog/web_start/</guid>
-      <description>[[Blogging]]
-How making a simple website taught me about many aspects of the tech world HTML I watched a video about how to host a website for free with Github Pages. They showed that html5up.net had many templates that could be used and edited for free that actually look really cool. Going to the site I downloaded a couple of the templates and started looking at the HTML. Fun fact, I didn&amp;rsquo;t know HTML at the time.</description>
     </item>
     
   </channel>

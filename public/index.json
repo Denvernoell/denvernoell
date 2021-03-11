@@ -1,39 +1,15 @@
 [{
-    "title": "LaTex in Word",
+    "title": "How I Scanned and Organized 10,000 Photos using VBA and Excel",
     "date": "",
-    "description": "Get started using equations in Microsoft Word",
-    "body": "This article offers a sample of basic LaTeX equations to get started using LaTeX equation in Microsoft Word.\nWhy? If you have ever put equations into a Word Document you might have been frusturated with your results. In order to create an equation it takes using your keyboard as well as looking through the menus to find Greek symbols and needing to click buttons in order to make subscripts and superscripts.\nLuckily within Word, there is the capability to use LaTeX equations.\nLaTeX equations may look intimidating but once you break it down into individual parts it becomes relatively simple.\nBasics    Input Output     A_ab $A_abc$   A_{a,b} $A_{a,b}$   A^ab $A^ab$   A^{a,b} $A^{a,b}$   \\frac{a}{b} $\\frac{a}{b}$   \\pi $\\pi$   \\delta $\\delta$   \\Delta $\\Delta$    Using within word\nalt = Activates equation mode ALT = Activates equation mode\n",
-    "ref": "/blog/latex_in_word/"
+    "description": "Learning VBA through necessity.",
+    "body": "What a fun process\n",
+    "ref": "/blog/jim-martin/"
   },{
     "title": "VBA Made Easy",
     "date": "",
     "description": "How to get started with VBA",
     "body": "I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.\nwow was I wrong!\n",
     "ref": "/blog/vba-made-easy/"
-  },{
-    "title": "Steel Helper",
-    "date": "",
-    "description": "How to use Steel Helper sites",
-    "body": "Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.\nThis was dope because\u0026hellip;\n",
-    "ref": "/blog/steel-helper/"
-  },{
-    "title": "À propos de",
-    "date": "",
-    "description": "Hugo, le framework le plus rapide au monde pour la création de sites Web",
-    "body": "Écrit dans Go, Hugo est un générateur de site statique open source disponible sous la [Apache License 2.0.] (Https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo prend en charge les types de fichiers de données TOML, YAML et JSON , Markdown et fichiers de contenu HTML et utilise des shortcodes pour ajouter du contenu riche. Les autres fonctionnalités notables sont les taxonomies, le mode multilingue, le traitement d\u0026rsquo;image, les formats de sortie personnalisés, la minification HTML / CSS / JS et la prise en charge des flux de travail Sass SCSS.\nHugo utilise une variété de projets open source, notamment:\n https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo est idéal pour les blogs, les sites Web d\u0026rsquo;entreprise, les portefeuilles créatifs, les magazines en ligne, les applications d\u0026rsquo;une seule page ou même un site Web avec des milliers de pages.\nHugo est destiné aux personnes qui souhaitent coder manuellement leur propre site Web sans se soucier de la mise en place d\u0026rsquo;exécutions complexes, de dépendances et de bases de données.\nLes sites Web construits avec Hugo sont extrêmement rapides, sécurisés et peuvent être déployés n\u0026rsquo;importe où, y compris AWS, GitHub Pages, Heroku, Netlify et tout autre fournisseur d\u0026rsquo;hébergement.\nEn savoir plus et contribuer sur [GitHub] (https://github.com/gohugoio).\n",
-    "ref": "/about/"
-  },{
-    "title": "",
-    "date": "",
-    "description": "",
-    "body": "",
-    "ref": "/web_start/"
-  },{
-    "title": "Contact",
-    "date": "",
-    "description": "",
-    "body": "",
-    "ref": "/contact/"
   },{
     "title": "How I got started with Linux",
     "date": "",
@@ -43,7 +19,31 @@
   },{
     "title": "I created a website and so can you",
     "date": "",
-    "description": "How I created and hosted a website the semi-hard way without knowing anything about web-dev beforehand.sync-conflict-20210106-170248-LRH4KH7",
-    "body": "[[Blogging]]\nHow making a simple website taught me about many aspects of the tech world HTML I watched a video about how to host a website for free with Github Pages. They showed that html5up.net had many templates that could be used and edited for free that actually look really cool. Going to the site I downloaded a couple of the templates and started looking at the HTML. Fun fact, I didn\u0026rsquo;t know HTML at the time. So I watched a crash course to teach me the basics of what different elements were used for and how they affected the website.\nCSS Next was CSS. I also didn\u0026rsquo;t know anything about CSS. Learning about CSS was interesting because it can be daunting if you don\u0026rsquo;t know exactly what you want it to look like.\nJavaScript After that came JavaScript. Took a look at the code for that portion. Still have no Idea what is going on with that.\nGithub Uploading it to a Github Repo did not take much effort although the process is still fairly new to me.\nThis worked for my personal site but when it came to hosting photos for the photo site, file sizes became and issue and I had to look for something that could host large files and files in large quantities\nDomain name Epik\nI personally used Epik because it was recommended by Luke Smith. This process was fairly simple and did not take a whole lot of effort. DNS records: How to point to different sites\nVPS hosting Digital Ocean This part might be the weirdest and most complex part of the whole experience. What a VPS basically does is gives you a server that you have access to that you can upload files to and host your website from them\nThis consisted of:\n Learning how to remote in to a server Sending files from your current computer to a remote server Pointing a custom domain to the hosted server site  ",
+    "description": "How making a simple website taught me about many aspects of the tech world.",
+    "body": "HTML I watched a video about how to host a website for free with Github Pages. They showed that html5up.net had many templates that could be used and edited for free that actually look really cool. Going to the site I downloaded a couple of the templates and started looking at the HTML. Fun fact, I didn\u0026rsquo;t know HTML at the time. So I watched a crash course to teach me the basics of what different elements were used for and how they affected the website.\nCSS Next was CSS. I also didn\u0026rsquo;t know anything about CSS. Learning about CSS was interesting because it can be daunting if you don\u0026rsquo;t know exactly what you want it to look like.\nJavaScript After that came JavaScript. Took a look at the code for that portion. Still have no Idea what is going on with that.\nGithub Uploading it to a Github Repo did not take much effort although the process is still fairly new to me.\nThis worked for my personal site but when it came to hosting photos for the photo site, file sizes became and issue and I had to look for something that could host large files and files in large quantities\nDomain name Epik\nI personally used Epik because it was recommended by Luke Smith. This process was fairly simple and did not take a whole lot of effort. DNS records: How to point to different sites\nVPS hosting Digital Ocean This part might be the weirdest and most complex part of the whole experience. What a VPS basically does is gives you a server that you have access to that you can upload files to and host your website from them\nThis consisted of:\n Learning how to remote in to a server Sending files from your current computer to a remote server Pointing a custom domain to the hosted server site  ",
     "ref": "/blog/web_start/"
+  },{
+    "title": "Steel Helper",
+    "date": "",
+    "description": "How to use Steel Helper sites",
+    "body": "Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.\nThis was dope because\u0026hellip;\n",
+    "ref": "/blog/steel-helper/"
+  },{
+    "title": "LaTex in Word",
+    "date": "",
+    "description": "Get started using equations in Microsoft Word",
+    "body": "This article offers a sample of basic LaTeX equations to get started using LaTeX equation in Microsoft Word.\nWhy? If you have ever put equations into a Word Document you might have been frusturated with your results. In order to create an equation it takes using your keyboard as well as looking through the menus to find Greek symbols and needing to click buttons in order to make subscripts and superscripts.\nLuckily within Word, there is the capability to use LaTeX equations.\nLaTeX equations may look intimidating but once you break it down into individual parts it becomes relatively simple.\nBasics    Input Output     A_ab $A_abc$   A_{a,b} $A_{a,b}$   A^ab $A^ab$   A^{a,b} $A^{a,b}$   \\frac{a}{b} $\\frac{a}{b}$   \\pi $\\pi$   \\delta $\\delta$   \\Delta $\\Delta$    Using within word\nalt = Activates equation mode ALT = Activates equation mode\n",
+    "ref": "/blog/latex_in_word/"
+  },{
+    "title": "About",
+    "date": "",
+    "description": "Get to know more",
+    "body": " \u0026ldquo;Civil Engineer\u0026rdquo; \u0026ldquo;Water Specialist\u0026rdquo; \u0026ldquo;Lifelong learner\u0026rdquo;  \u0026ldquo;I am Denver, Civil Engineer. I love to simplify complex tasks, it\u0026rsquo;s my passion. I am here to help you.\u0026rdquo;\nI am currently a Civil Engineering student emphasizing in water resources. Below is some history of my past work\nI am currently the Treasurer for the Fresno State Chapter of American Society of Civil Engineers (ASCE)\n",
+    "ref": "/about/"
+  },{
+    "title": "Contact",
+    "date": "",
+    "description": "",
+    "body": "",
+    "ref": "/contact/"
   }]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storytelling on Denver Noell</title>
+    <link>//denvernoell.netlify.app/categories/storytelling/</link>
+    <description>Recent content in Storytelling on Denver Noell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//denvernoell.netlify.app/categories/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I created a website and so can you</title>
+      <link>//denvernoell.netlify.app/blog/web_start/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/web_start/</guid>
+      <description>HTML I watched a video about how to host a website for free with Github Pages. They showed that html5up.net had many templates that could be used and edited for free that actually look really cool. Going to the site I downloaded a couple of the templates and started looking at the HTML. Fun fact, I didn&amp;rsquo;t know HTML at the time. So I watched a crash course to teach me the basics of what different elements were used for and how they affected the website.</description>
+    </item>
+    
+  </channel>
+</rss>
