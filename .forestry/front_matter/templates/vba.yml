@@ -30,3 +30,5 @@ fields:
   - type: text
     name: stretch
     label: stretch
+pages:
+- content/blog/moment-of-inertia-calculator.md
