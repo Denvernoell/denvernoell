@@ -92,19 +92,6 @@
 
 
   
-    
-    <a href="//twitter.com/share?text=Steel%20Helper&amp;url=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
-        <p>Twitter</p>
-      </a>
-  
-
-  
-      <a href="//www.facebook.com/sharer/sharer.php?u=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
-        <p>Facebook</p>
-        </a>
-  
-
-  
     <a href="//www.reddit.com/submit?url=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f&amp;title=Steel%20Helper" target="_blank" rel="noopener" class="nav share-btn reddit">
           <p>Reddit</p>
         </a>
@@ -114,12 +101,6 @@
         <a href="//www.linkedin.com/shareArticle?url=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f&amp;title=Steel%20Helper" target="_blank" rel="noopener" class="nav share-btn linkedin">
             <p>LinkedIn</p>
           </a>
-  
-
-  
-        <a href="//www.pinterest.com/pin/create/button/?url=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f&amp;description=Steel%20Helper" target="_blank" rel="noopener" class="nav share-btn pinterest">
-          <p>Pinterest</p>
-        </a>
   
 
   
@@ -209,7 +190,7 @@
   <div class="meta">
     <time datetime="2021-03-09 00:00:00 &#43;0000 UTC">March 9, 2021</time>
     <p>Denver Noell</p>
-    <p>1-Minute Read</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
@@ -218,19 +199,6 @@
 
 
 
-
-  
-    
-    <a href="//twitter.com/share?text=Steel%20Helper&amp;url=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f" target="_blank" rel="noopener" class="nav share-btn twitter">
-        <p>Twitter</p>
-      </a>
-  
-
-  
-      <a href="//www.facebook.com/sharer/sharer.php?u=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f" target="_blank" rel="noopener" class="nav share-btn facebook">
-        <p>Facebook</p>
-        </a>
-  
 
   
     <a href="//www.reddit.com/submit?url=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f&amp;title=Steel%20Helper" target="_blank" rel="noopener" class="nav share-btn reddit">
@@ -242,12 +210,6 @@
         <a href="//www.linkedin.com/shareArticle?url=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f&amp;title=Steel%20Helper" target="_blank" rel="noopener" class="nav share-btn linkedin">
             <p>LinkedIn</p>
           </a>
-  
-
-  
-        <a href="//www.pinterest.com/pin/create/button/?url=%2f%2fdenvernoell.netlify.app%2fblog%2fsteel-helper%2f&amp;description=Steel%20Helper" target="_blank" rel="noopener" class="nav share-btn pinterest">
-          <p>Pinterest</p>
-        </a>
   
 
   
@@ -263,7 +225,17 @@
     <img class="cover" src="//denvernoell.netlify.app/img/loopstaircase1.jpg" alt="Desert Scene">
   </a>
       <p>Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.</p>
-<p>This was dope because&hellip;</p>
+<p>While solving problems I found that although there were many different starting conditions, most of the problems were to determine the same outputs. Because of this I created an ending function that took all of the outputs from previous functions to output the required strengths.</p>
+<p>This became repetitive and my functions started having more and more inputs. One of the problems with this is if there is a new process that requires different inputs or has different outputs, there is the potential to not be compatible with later functions. This led me to learning about Object Oriented Programming.</p>
+<p>Object Oriented Programming allowed me to cut the amount of inputs and outputs in each function</p>
+<p>One of the things that is most beneficial about this method is the implementation of the pint library. This library is used to apply units to values and is able to convert between them. This means that if an equation like the following would output 3.5 feet instead of 9. This was very helpful when the inputs could be of varying units and eliminates the need to account for unit conversions.
+$$3 feet + 6 inches$$</p>
+<p>In order to determine the properties for a shape, the Steel Construction Manual tables needed to be checked for each shape used. I found a shapes database file on the AISC website which contained all of these values in an Excel file. This allowed me to use the pandas library to extract the needed values, and apply their units using pint syntax. This took out the potential errors that can come with pulling values from a book manually or needing to reference the same values multiple times in a single problem.</p>
+<p>Things I learned:</p>
+<ol>
+<li>Object Oriented Programming</li>
+<li>Module creation and upload to Pypi</li>
+</ol>
 
     </div>
     <footer>
@@ -342,7 +314,7 @@
   
   <div class="pagination">
     
-      <a href="/blog/web_start/" class="button left"><span>I created a website and so can you</span></a>
+      <a href="/blog/moment-of-inertia-calculator/" class="button left"><span>Moment of Inertia Calculator</span></a>
     
     
       <a href="/blog/latex_in_word/" class="button right"><span>LaTex in Word</span></a>
@@ -398,11 +370,11 @@
       </article>
       
       <article class="mini-post">
-          <a href="/blog/steel-helper/" class="image">
-    <img class="cover" src="//denvernoell.netlify.app/img/loopstaircase1.jpg" alt="Desert Scene">
+          <a href="/blog/moment-of-inertia-calculator/" class="image">
+    <img class="cover" src="//denvernoell.netlify.app/img/windmill1.jpg" alt="Photo">
   </a>
         <header>
-          <h2><a href="/blog/steel-helper/">Steel Helper</a></h2>
+          <h2><a href="/blog/moment-of-inertia-calculator/">Moment of Inertia Calculator</a></h2>
           <time class="published" datetime="2021-03-09 00:00:00 &#43;0000 UTC">March 9, 2021</time>
         </header>
       </article>
@@ -430,6 +402,9 @@
           
           <li>
               <a href="/categories/current/">current<span class="count">1</span></a>
+          
+          <li>
+              <a href="/categories/education/">education<span class="count">1</span></a>
           
           <li>
               <a href="/categories/reflection/">reflection<span class="count">1</span></a>

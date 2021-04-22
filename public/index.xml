@@ -17,7 +17,7 @@
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>//denvernoell.netlify.app/blog/jim-martin/</guid>
-      <description>What a fun process</description>
+      <description>I don’t think that many people would have guessed the amount of changes that would happen in 2020. There have been many hardships and unexpected difficulties such as job losses and businesses having to close. This has also been a time for reconnecting with loved ones and having extra time to work on projects and new interests. Personally, a positive impact was that this has given me more time to spend with my family that I wouldn’t have had.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       
       <guid>//denvernoell.netlify.app/blog/vba-made-easy/</guid>
       <description>I started a new job in 2020. Little did I know that this would spend me spyrolling into learning many programming languages.
-wow was I wrong!</description>
+During the interview, questions about my experience with Excel came up. During my first week, one of my coworkers asked a question about a project that I had talked about in my interview. He proceeded to tell me that they sometimes used macros using VBA to do some of their work.</description>
     </item>
     
     <item>
@@ -49,13 +49,23 @@ wow was I wrong!</description>
     </item>
     
     <item>
+      <title>Moment of Inertia Calculator</title>
+      <link>//denvernoell.netlify.app/blog/moment-of-inertia-calculator/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/moment-of-inertia-calculator/</guid>
+      <description>In my Design of Steel Structures course, in order to calculate needed values for beams. The Moment of Inertia, Centroid, and related properties need to be calculated. Shapes included in the AISC Steel Manual have these values calculated but if there is a member not included in the manual or if it is a built up member, then it needs to be calculated by hand.
+This led me to find a simple example on YouTube in order to break the problem down into variables that could make it work for any situation.</description>
+    </item>
+    
+    <item>
       <title>Steel Helper</title>
       <link>//denvernoell.netlify.app/blog/steel-helper/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>//denvernoell.netlify.app/blog/steel-helper/</guid>
       <description>Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.
-This was dope because&amp;hellip;</description>
+While solving problems I found that although there were many different starting conditions, most of the problems were to determine the same outputs. Because of this I created an ending function that took all of the outputs from previous functions to output the required strengths.</description>
     </item>
     
     <item>
@@ -76,6 +86,15 @@ This was dope because&amp;hellip;</description>
       <description>&amp;ldquo;Civil Engineer&amp;rdquo; &amp;ldquo;Water Specialist&amp;rdquo; &amp;ldquo;Lifelong learner&amp;rdquo;  &amp;ldquo;I am Denver, Civil Engineer. I love to simplify complex tasks, it&amp;rsquo;s my passion. I am here to help you.&amp;rdquo;
 I am currently a Civil Engineering student emphasizing in water resources. Below is some history of my past work
 I am currently the Treasurer for the Fresno State Chapter of American Society of Civil Engineers (ASCE)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//denvernoell.netlify.app/blog/quarentine_experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//denvernoell.netlify.app/blog/quarentine_experience/</guid>
+      <description>I don’t think that many people would have guessed the amount of changes that would happen in 2020. There have been many hardships and unexpected difficulties such as job losses and businesses having to close. This has also been a time for reconnecting with loved ones and having extra time to work on projects and new interests. Personally, a positive impact was that this has given me more time to spend with my family that I wouldn’t have had.</description>
     </item>
     
     <item>
