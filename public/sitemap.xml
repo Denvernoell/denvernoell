@@ -43,16 +43,6 @@
   </url>
   
   <url>
-    <loc>//denvernoell.netlify.app/tags/programming/</loc>
-    <lastmod>2021-03-09T00:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//denvernoell.netlify.app/blog/vba-made-easy/</loc>
-    <lastmod>2021-03-09T00:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//denvernoell.netlify.app/tags/civil-engineering/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url>
@@ -88,6 +78,11 @@
   </url>
   
   <url>
+    <loc>//denvernoell.netlify.app/tags/programming/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//denvernoell.netlify.app/categories/reflection/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url>
@@ -104,6 +99,11 @@
   
   <url>
     <loc>//denvernoell.netlify.app/categories/storytelling/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//denvernoell.netlify.app/blog/vba-made-easy/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url>
   
