@@ -31,4 +31,5 @@ fields:
     name: stretch
     label: stretch
 pages:
+- content/blog/akel-helper.md
 - content/blog/moment-of-inertia-calculator.md
