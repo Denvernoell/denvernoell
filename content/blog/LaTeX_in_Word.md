@@ -1,18 +1,19 @@
 +++
-title = "LaTex in Word"
-description = "Get started using equations in Microsoft Word"
 author = "Denver"
-date = "2021-03-08"
+categories = ["themes", "syntax"]
+date = 2021-03-08T00:00:00Z
+description = "Get started using equations in Microsoft Word"
+draft = true
+hasMath = true
 removeBlur = true
 tags = ["LaTeX", "Microsoft", "Word", "Equations"]
-categories = ["themes", "syntax"]
-hasMath = true
+title = "LaTex in Word"
 [[images]]
-  src = "/img/equations1.jpg"
-  alt = "Equations"
-  stretch = "cover"
-+++
+alt = "Equations"
+src = "/img/equations1.jpg"
+stretch = "cover"
 
++++
 This article offers a sample of basic LaTeX equations to get started using LaTeX equation in Microsoft Word.
 
 <!--more-->

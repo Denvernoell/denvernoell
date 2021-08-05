@@ -1,19 +1,20 @@
 +++
-title = "How I got started with Linux"
-description = "How I Learned More About Tech When I Started Using Linux"
 author = "Denver Noell"
-date = "2021-03-09"
-tags = ["Linux"]
 categories = ["Reflection"]
-removeBlur = true
 comments = true
+date = 2021-03-09T00:00:00Z
+description = "How I Learned More About Tech When I Started Using Linux"
+draft = true
 hasMath = true
+removeBlur = true
+tags = ["Linux"]
+title = "How I got started with Linux"
 [[images]]
-  src = "img/penguins1.jpg"
-  alt = "Photo"
-  stretch = "cover"
-+++
+alt = "Photo"
+src = "img/penguins1.jpg"
+stretch = "cover"
 
++++
 When Covid hit my city pretty hard, my company descided to switch to remote work in order to mitigate risk. In our office, employees have dual-monitor set ups. To anyone who has never had a dual or tri-monitor set up, try it, you'll like it. Because of this, our boss reccommended getting a second monitor if we did not already have one so that we could mimic our office set up as well as possible. This caused me to scour the internet to find a monitor that was cheap but also fit my needs.
 
 What I found is that used monitors weren't much cheaper than getting a used computer with a monitor. I found a computer with a 24'' monitor with a small desktop. I went with that option and soon found out that the monitor wasn't super great when it came to quality when using the VGA cable.

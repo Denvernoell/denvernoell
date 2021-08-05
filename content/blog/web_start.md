@@ -1,19 +1,20 @@
 +++
-title = "I created a website and so can you"
-description = "How making a simple website taught me about many aspects of the tech world."
 author = "Denver Noell"
-date = "2021-03-09"
-tags = ["Web Development"]
 categories = ["Storytelling"]
 comments = true
-removeBlur = true
+date = 2021-03-09T00:00:00Z
+description = "How making a simple website taught me about many aspects of the tech world."
+draft = true
 hasMath = true
+removeBlur = true
+tags = ["Web Development"]
+title = "I created a website and so can you"
 [[images]]
-  src = "img/programming1.jpg"
-  alt = "Photo"
-  stretch = "cover"
-+++
+alt = "Photo"
+src = "img/programming1.jpg"
+stretch = "cover"
 
++++
 ## HTML
 
 I watched a video about how to host a website for free with Github Pages. They showed that html5up.net had many templates that could be used and edited for free that actually look really cool. Going to the site I downloaded a couple of the templates and started looking at the HTML. Fun fact, I didn't know HTML at the time. So I watched a crash course to teach me the basics of what different elements were used for and how they affected the website.
