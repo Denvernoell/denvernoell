@@ -1,17 +1,18 @@
 +++
 author = "Denver Noell"
+categories = ["Current"]
 date = 2021-03-09T00:00:00Z
 description = "How to use Steel Helper sites"
-tags = ["Steel", "Civil Engineering"]
-categories = ["Current"]
+draft = true
 removeBlur = true
+tags = ["Steel", "Civil Engineering"]
 title = "Steel Helper"
 [[images]]
-  src = "img/loopstaircase1.jpg"
-  alt = "Desert Scene"
-  stretch = "cover"
-+++
+alt = "Desert Scene"
+src = "img/loopstaircase1.jpg"
+stretch = "cover"
 
++++
 Starting my Steel class, I could tell immediately that the problems in this class had lots of opportunity to be programmed due to the reliance on code. This means that any cutting back on referring to the code book can be very beneficial.
 
 While solving problems I found that although there were many different starting conditions, most of the problems were to determine the same outputs. Because of this I created an ending function that took all of the outputs from previous functions to output the required strengths.

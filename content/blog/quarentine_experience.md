@@ -4,6 +4,7 @@ categories = [""]
 comments = true
 date = ""
 description = ""
+draft = true
 hasMath = true
 removeBlur = true
 tags = [""]

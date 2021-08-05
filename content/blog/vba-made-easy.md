@@ -2,6 +2,7 @@
 author = "Denver Noell"
 date = 2021-03-09T00:00:00Z
 description = "How to get started with VBA"
+draft = true
 removeBlur = true
 tags = ["VBA", "Programming"]
 title = "VBA Made Easy"
