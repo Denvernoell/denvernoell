@@ -6,5 +6,4 @@ One thing that I am working on improving is my personal documentation system📚
 
 ___
 [Personal Site | ](https://denvernoell.com)
-[VBA Made Easy | ](https://VBAMadeEasy.com/)
 [Linkedin](https://www.linkedin.com/in/denver-noell-02840016b)
