@@ -1,8 +1,12 @@
 # Welcome,
 
-Denver here, Civil Engineering student💧 who wants to make the live's of those around me easier by trying to learn **Python**🐍 and **VBA**📊 to the best of my ability so that I can automate and simplify complex tasks. I am also working on improving my *cooking* and enjoy *pickleball* 🎾, *juggling*🤹‍♂️, and *yoga*🧘‍♂️.
+Denver here, Civil Engineering graduate💧 who enjoys taking existing processes and improving them using **Python**🐍.
 
-One thing that I am working on improving is my personal documentation system📚 to allow me to *quickly reference* instead of *relearning everything* from scratch when problems similar to those I have already encountered come up.
+I started my coding journey by learning **VBA**📊 to help automate tedious **Excel** processes which inspired me to dive into the field and learn more.
+
+My personal knowlege system📚 is created in **Notion** and serves as a source of documentation, project planning, and task management.
+
+I am also working on improving my *cooking* and enjoy *pickleball* 🎾 and *yoga*🧘‍♂️.
 
 ___
 [Personal Site | ](https://denvernoell.com)
