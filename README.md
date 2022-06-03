@@ -9,4 +9,4 @@ My personal knowlege system📚 is created in **Notion** and serves as a source 
 I am also working on improving my *cooking* and enjoy *pickleball* 🎾 and *yoga*🧘‍♂️.
 
 ___
-[Personal Site](https://portfolio.denvernoell.com/) | [Blog](https://denvernoell.com/) | [Linkedin](https://www.linkedin.com/in/denver-noell-02840016b)
+[Personal Site](https://portfolio.denvernoell.com/) | [Blog](https://denvernoell.com/) | [Linkedin](https://www.linkedin.com/in/denvernoell/)
