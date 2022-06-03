@@ -10,5 +10,5 @@ I am also working on improving my *cooking* and enjoy *pickleball* 🎾 and *yog
 
 ___
 [Personal Site | ](https://portfolio.denvernoell.com/)
-[Blog](https://denvernoell.com/)
+[Blog | ](https://denvernoell.com/)
 [Linkedin](https://www.linkedin.com/in/denver-noell-02840016b)
